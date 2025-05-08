@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-nvidia-ai-endpoints
+faiss-cpu
+huggingface_hub
+sentence-transformers
+PyPDF2
+python-dotenv
+langchain-community
+pypdf
+unstructured[local-inference] 
+pytesseract 
+pdf2image 
+langdetect
+torch
